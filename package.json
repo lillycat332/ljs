@@ -1,0 +1,9 @@
+{
+  "name": "ljs",
+  "version": "1.0.0",
+  "description": "A JS frontend framework",
+  "main": "index.ts",
+  "repository": "https://github.com/lillycat332/ljs",
+  "author": "Lilly Cham",
+  "license": "MIT"
+}
